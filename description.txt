@@ -1,0 +1,6 @@
+Assignments for STAD68 course which involves statistical aspects of supervised learning: regression,
+regularization methods, parametric and nonparametric classification methods, including Gaussian processes
+for regression and support vector machines for classification, model averaging, model selection, and mixture models for unsupervised learning.
+
+Contains solutions for the exercises from the book "Understanding Machine Learning: From Theory to Algorithms"
+by Shai Shalev-Shwartz and Shai Ben-David.
